@@ -2,6 +2,8 @@
 # How to submit Solution
 # Task desctiptions
 
+
+https://github.com/BasharBetta7/intro_to_SQL_tasks
 ## Task 1:
 In this task you will write SQL query to extract information from a database table.
 imagine you are given a table with the name `users`, with the following schema:
